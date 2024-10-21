@@ -6,8 +6,21 @@
 
 .link{
     color: #212529;
+    text-decoration: none;
 }
 
 .categorySeperator{
     padding-top: 50px;
+}
+
+.info{
+    float: right;
+}
+
+.toolSeperator{
+    padding-top: 10px;
+}
+
+.smallSeperator{
+    padding-top: 2px;
 }
